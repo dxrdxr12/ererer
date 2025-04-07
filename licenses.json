@@ -5,8 +5,9 @@
       "expires": "2026-12-31"
     },
     {
-      "key": "FRE",
+      "key": "FREE-TEST",
       "expires": "2026-12-01",
+      "device_id": "0xef3347a6ea04"
     }
   ]
 }
