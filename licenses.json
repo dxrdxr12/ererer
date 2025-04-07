@@ -2,11 +2,11 @@
   "keys": [
     {
       "key": "WINPRO-777",
-      "expires": "2025-12-31"
+      "expires": "2026-12-31"
     },
     {
       "key": "FREE-TEST",
-      "expires": "2024-12-01"
+      "expires": "2026-12-01"
     }
   ]
 }
